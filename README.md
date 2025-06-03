@@ -1,8 +1,4 @@
-Entiendo que necesitas un README completo para tu repositorio de clasificación de residuos con IA. Basándome en el código de tu sistema, te ayudo a crear un README bilingüe (inglés y español).
-
-## Answer
-
-Aquí tienes un README completo para tu repositorio **Clasificador_de_Residuos_IA**:
+**Clasificador_de_Residuos_IA**:
 
 ```markdown
 # AI Waste Classification System / Sistema de Clasificación de Residuos con IA
